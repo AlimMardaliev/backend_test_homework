@@ -1,0 +1,5 @@
+# Ignor all .doc file
+*.doc
+
+# ignor new.py
+new.py
